@@ -46,7 +46,9 @@ $nomeAutore = isset($_GET['nome']) ? $_GET['nome'] : '';
             ?>
         </table>
     </div>
-
-    <a href="../index.php"> Ritorna alla Homepage </a>
+    
+    <center>
+        <a href="../index.php"> Ritorna alla Homepage </a>
+    </center>
 </body>
 </html>
